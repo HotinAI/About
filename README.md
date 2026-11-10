@@ -1,71 +1,71 @@
 # Hotin AI Studio
 
-一站式在线 AI 工具与 AI SaaS 服务平台。
+An all-in-one online platform for AI tools and AI-powered SaaS solutions.
 
-## 业务介绍
+## Business Overview
 
-Hotin AI Studio 专注于将前沿的人工智能能力封装为**开箱即用的在线工具**和**可订阅的 SaaS 产品**，帮助个人创作者、内容团队与企业用户以极低的门槛使用 AI 完成创作与分析任务，无需自建模型、无需运维基础设施。
+Hotin AI Studio transforms cutting-edge artificial intelligence capabilities into **ready-to-use online tools** and **subscription-based SaaS products**, enabling individual creators, content teams, and enterprises to leverage AI for creative and analytical tasks with minimal effort—without building models or managing infrastructure.
 
-我们的业务由两部分组成：
+Our business consists of two core offerings:
 
-- **在线 AI 工具服务**：面向终端用户的 Web 应用，打开浏览器即可使用，按次或按订阅付费，覆盖图像、音频、人脸等多个创作与分析场景。
-- **AI SaaS 产品**：面向团队与企业的订阅制服务，提供账号体系、用量管理、批量处理与 API 集成能力，可嵌入客户现有的工作流与产品。
+- **Online AI Tools**: Web applications for end users, accessible directly through a browser, with pay-per-use and subscription options. These tools cover image generation, audio production, facial analysis, and other creative and analytical use cases.
+- **AI SaaS Products**: Subscription-based services for teams and enterprises, providing account management, usage tracking, batch processing, and API integration capabilities that fit seamlessly into existing workflows and products.
 
-## 主营产品
+## Core Products
 
-### 1. AI 人脸分析服务
+### 1. AI Facial Analysis
 
-基于计算机视觉与人脸识别模型，对上传的人脸照片进行多维度智能分析。
+Powered by computer vision and facial recognition models, this service performs multidimensional analysis of uploaded facial photos.
 
-- 人脸属性识别：年龄、性别、表情、情绪等
-- 颜值与面部特征评估：五官比例、对称度、肤质等维度打分
-- 人脸比对与相似度分析
-- 应用场景：娱乐互动、社交产品、形象管理、内容创作
+- **Facial Attribute Recognition**: Age, gender, facial expression, emotion, and more
+- **Facial Aesthetics and Feature Assessment**: Scoring across dimensions such as facial proportions, symmetry, and skin condition
+- **Face Matching and Similarity Analysis**
+- **Use Cases**: Entertainment and interactive experiences, social products, personal image management, and content creation
 
-### 2. AI 音乐生成服务
+### 2. AI Music Generation
 
-输入文字描述或选择风格，即可生成完整的原创音乐作品。
+Generate complete, original music compositions from text descriptions or selected styles.
 
-- 文本生成音乐：根据风格、情绪、场景描述自动生成曲目
-- 多风格支持：流行、电子、古典、氛围、Lo-fi 等
-- 支持纯音乐（BGM）与带人声歌曲两种形态
-- 应用场景：短视频配乐、播客片头片尾、游戏音效、广告音乐
+- **Text-to-Music Generation**: Automatically create tracks based on descriptions of style, mood, and setting
+- **Diverse Genre Support**: Pop, electronic, classical, ambient, lo-fi, and more
+- **Flexible Output Formats**: Instrumental music (BGM) and songs with vocals
+- **Use Cases**: Short-form video soundtracks, podcast intros and outros, game audio, and advertising music
 
-### 3. AI 音频播客服务
+### 3. AI Audio Podcasting
 
-将文字内容自动转化为自然流畅的语音播客，降低音频内容生产门槛。
+Automatically transform written content into natural, fluent spoken-word podcasts, reducing the barriers to audio content production.
 
-- 文本转语音（TTS）：多音色、多语言、多情感风格
-- 文章/脚本一键转播客：自动分段、配音、合成完整节目
-- 声音克隆：基于短样本复刻指定音色（需授权）
-- 应用场景：知识付费、有声内容、企业内训、自媒体运营
+- **Text-to-Speech (TTS)**: Multiple voices, languages, and emotional styles
+- **One-Click Article and Script Conversion**: Automatic segmentation, voiceover, and production of complete podcast episodes
+- **Voice Cloning**: Recreate a specified voice from a short audio sample, subject to authorization
+- **Use Cases**: Paid knowledge products, audio content, corporate training, and independent media production
 
-### 4. AI 图片生成服务
+### 4. AI Image Generation
 
-基于扩散模型的图像生成与编辑能力，覆盖从创意到成图的全流程。
+Diffusion-based image generation and editing capabilities covering the entire workflow from concept to final image.
 
-- 文生图：通过提示词生成高质量图片
-- 图生图：基于参考图进行风格迁移与二次创作
-- 人像编辑：换脸、发型试戴、造型预览、写真生成
-- 应用场景：设计素材、电商主图、社交媒体配图、个人写真
+- **Text-to-Image**: Generate high-quality images from prompts
+- **Image-to-Image**: Apply style transfer and create derivative works based on reference images
+- **Portrait Editing**: Face swapping, virtual hairstyle try-on, styling previews, and AI portrait generation
+- **Use Cases**: Design assets, e-commerce hero images, social media graphics, and personal portraits
 
-### 5. 更多 AI 工具（持续扩展）
+### 5. More AI Tools (Continuously Expanding)
 
-围绕内容创作链条，持续上线新的 AI 能力，包括但不限于视频生成、文案写作、智能抠图、老照片修复等。
+We continue to introduce new AI capabilities across the content creation workflow, including video generation, copywriting, intelligent background removal, and old photo restoration.
 
-## 目标用户
+## Target Users
 
-- **个人创作者**：短视频作者、播客主、设计师、自媒体运营者
-- **内容团队**：MCN 机构、营销团队、电商运营团队
-- **企业客户**：需要 AI 能力但无自研团队的中小企业，可通过 API 集成至自有产品
+- **Individual Creators**: Short-form video creators, podcasters, designers, and independent media professionals
+- **Content Teams**: MCN organizations, marketing teams, and e-commerce operations teams
+- **Enterprise Customers**: Small and medium-sized businesses that need AI capabilities without an in-house development team, with API integration available for their own products
 
-## 服务特色
+## Service Highlights
 
-- **开箱即用**：纯在线服务，无需安装，无需 GPU
-- **按需付费**：免费试用 + 订阅制 + 按量计费多种模式
-- **持续迭代**：模型与功能持续更新，订阅用户自动获得最新能力
-- **安全合规**：严格的内容审核机制与使用规范，保障生成内容合法合规
+- **Ready to Use**: Fully online services with no installation or GPU required
+- **Flexible Pricing**: Free trials, subscriptions, and usage-based billing
+- **Continuous Innovation**: Ongoing model and feature updates, with subscribers automatically receiving the latest capabilities
+- **Safety and Compliance**: Robust content moderation and usage policies to ensure that generated content is legal and compliant
 
-## 许可
+## License
 
-本项目为私有商业项目，未经许可不得复制或分发。
+This is a proprietary commercial project. No part of it may be copied or distributed without permission.
